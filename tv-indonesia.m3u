@@ -96,7 +96,7 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/02.m3u8
 #                               TV ONE                             #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Tjrs-Kw_zwuUQhzq8WkeoHSNfOCkdaEq9nAn5Lw7eLSptQB4y4TtjBBPlT4fAc0Yp-DEhbklijYSep24RHUPxqN9bX_lvTUFPRIFc1Lo2xcUMUHSGZKkngKCjEH8v3Pqtruia50wCu_zA4Y5ZZj6KJ-MiYQVSftoZpDWpeLsp2hShy7Xn_pmkrl58As/s320/tvone.jpg" group-title="NASIONAL",TV ONE
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/02.m3u8
 
 #------------------------------------------------------------------#
 #                          CNBC INDONESIA                          #
@@ -147,13 +147,13 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #------------------------------------------------------------------#
-#                               CHANNEL JOWO                       #
+#                           CHANNEL JOWO                           #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwrYKvHIAJTOXIZvj49fiMDPilGYnoGvGCYaI6e7zmSzuRPyuMRLixBUzRiBXMPPKY-OHuazZ6t4OpbZWXlsd36JH9HCrYZ5JOr-sSYbqvHETWH7Z78D6ItOpiEWfO4Z0jlcIZWAdm-qZmmV0_mhxUdGhvuQRUB9myzeOt-7YhZzI50oByZZTmZFXmjrg/s320/channeljowo.jpg" group-title="DAERAH",CHANNEL JOWO
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 #------------------------------------------------------------------#
-#                               HANACARAKA TV                      #
+#                           HANACARAKA TV                          #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW1FmzLYWJx00rSU98Nkcc5_QR2X5-wXhLtB9OJ83-Ai3i1Tbav_afzExQXJjrLOs1ffq-6BMhTF-wiRc8uD7hJOCMkvATRin4RsidkRWJ2NDTm_DF7KZ79Ekzq-X4Jxz3T439Ln9DwyBlOQYsDsZDvNaU99tkQk4g20hQLN5cA3FO84J_swHmOhB_5aM/s320/hanacarakatv.jpg" group-title="DAERAH",HANACARAKA TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
