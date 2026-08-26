@@ -10,9 +10,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #                              RCTI                                #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFD1Gu8cYTNnT4JPq6GDJbULAGnR5Mn43baqkaSoOeQl4HDLVuP9O1jpOSmMGsn5yWBRH7WgHmAmjUUYourDFNteTcZcYTF4JFzzKWONv3lJNRux_YSA0C4rlJnN4F_xygWcPyKM5o7MPfjlztYqulLsVYmh1Y1h1xYQfdzVSCGBZzZBGoS-zlVslcizs6/s320/rcti.jpg" group-title="NASIONAL",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 
 #------------------------------------------------------------------#
 #                              SCTV                                #
