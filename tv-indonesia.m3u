@@ -10,7 +10,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #                              RCTI                                #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFD1Gu8cYTNnT4JPq6GDJbULAGnR5Mn43baqkaSoOeQl4HDLVuP9O1jpOSmMGsn5yWBRH7WgHmAmjUUYourDFNteTcZcYTF4JFzzKWONv3lJNRux_YSA0C4rlJnN4F_xygWcPyKM5o7MPfjlztYqulLsVYmh1Y1h1xYQfdzVSCGBZzZBGoS-zlVslcizs6/s320/rcti.jpg" group-title="NASIONAL",RCTI
-https://rctiplus-linier.idstream.workers.dev/rcti.m3u8
 
 #------------------------------------------------------------------#
 #                              SCTV                                #
@@ -24,9 +23,6 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 #                              MNCTV                               #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgptM8hGueSXZ315PQdhemRWVebz0Dz73bw_GAzvxKtDvMXl53PmklmV7F8MDHR6b5Ls9-0075iDOL-T5xN9nFPs35kqU3OCprhnu9N5kxRMg4BkWGSW5_cu335jffPoL_a91KqXJocXNmd607JeoM6dtaOA-b4tTSs5u4UAeow5VIxhFexmrktm1Bmrlg/s320/mnctv.jpg" group-title="NASIONAL",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 
 #------------------------------------------------------------------#
 #                               GTV                                #
@@ -48,13 +44,13 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 #                              TRANS7                              #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdiL7y-dQNc_pES2A3NxQKMbfjOgGHWKgPB_7CtdHeogxVU49BHCDE1L9ufsYEGjo9JVKqEpF2z5PUmaUmdnNj6kJovzyasoxWvaB9goe-JaF3dcuCvWQLATAiMB3JgnbaxQHE2jbthBpH81GB-zOzcSI68Nbm-1Qpk3b-vxL08QQmbyeZ7rZykVOq-_I/s320/trans7.jpg" group-title="NASIONAL",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
 
 #------------------------------------------------------------------#
 #                             TRANS TV                             #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Lhz1dNB2HZlJZMiMVjHCw4LosbnUBzfGXw8ZxrnSiCZzNKLFJDToKVjj8CjqUh4tfUL4JAM7Bzi1lIPUsqjjce_x3keqQ3VDdk24aTfPJS8Xu5CyRoBEHM9UhODs0I2WpqXxE-_tZHhCRLHLShXep38rst-s_CA_WSy4j9ywc4NYp2kBXtjHH0p_fBc/s320/transtv.jpg" group-title="NASIONAL",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
 
 #------------------------------------------------------------------#
 #                             INDOSIAR                             #
@@ -69,11 +65,7 @@ https://vidsemar.pages.dev/terraluna/205.mpd
 #                              ANTV                                #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz3aMUlMceio5mblruq0qqpBwOV5XFaQwvBBby2wZxajXtJ8bMhOEHJoJg2A_A1AR3Uc8XNmVJGSndVdSk8IC8Y-JVV-R1JsN6qXPALu8SVrnpAm93Fe6VlKMCSs-pNH2yzl2N9_np0Of9-NNNIwMMYsI0zEnAm8z2KPGG0yj3FaSAKQ9OR4OR5UGXcrs/s320/antv.jpg" group-title="NASIONAL",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
 
 #------------------------------------------------------------------#
 #                               MOJI                               #
@@ -163,8 +155,3 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg97PzCs0AogDb4BH8vpCpmEjWxLjbrpoEPrANO8c4eQlyZa-Sk-tFqNfAEc6qbOuj1bayxVt8r3YRMngZx6rtWWFOC6l6ncGZtrSuczq1e23k5NJxryhCC43UphsKznUGt5AYI2aBxWAZpcaalh2WiNWrKs7Uy3Y5Ir10bE8jqTvZv4s1x2PugEkel7vE/s320/jitv.jpg" group-title="DAERAH",JITV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
-#------------------------------------------------------------------#
-#                            Jogja TV                              #
-#------------------------------------------------------------------#
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pgdQG55LymZNMUAkBisDBJ0dpa1qzI8dyoMG_Crm3jfkdqDkYyZyOqYAEmCQ4lpIuAjgu-hp2AeByM4or2fTAUZNPxYvq76XSlE_ZnOuLz8pTeB28BlA9gddMvCqzQqvu5XaoK9xFpm6VPKE0Lm2wgkwIiYHnwX_7ABoFvn3gIhQk0ZCJ08ciOh7XhI/s320/jogjatv.jpg" group-title="DAERAH",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
