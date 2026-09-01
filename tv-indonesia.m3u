@@ -31,7 +31,15 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1,CHANNEL JOWO
 http://op-flashcon-digdayasd-1.dens.tv/h/h215/S2/mnf.m3u8
+#EXTINF:-1,THE INDONESIA CHANNEL
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=hyUBAoGB4rrqh7G246BwcH
+#EXTINF:-1,STARA TV
+https://stream.matrixtv.id/hls/0/stream.m3u8
+#EXTINF:-1,JAWAPOSTV
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/chunklist_w359005756.m3u8
 #EXTINF:-1,MIC
 https://mic.siar.us/mic/live/mic_720p.m3u8
 #EXTINF:-1,TV9
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w940857514.m3u8
+#EXTINF:-1,BABY SHARK
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
