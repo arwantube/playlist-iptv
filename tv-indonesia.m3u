@@ -100,10 +100,16 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #------------------------------------------------------------------#
-#                              METRO TV                            #
+#                              METRO TV 1                           #
 #------------------------------------------------------------------#
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdDjNTNyM-5vDNTKSmYC9Zd5mUZMR2R7oas1_u08sIsbuTQN9kLjlZa2Ld2OMakX2bERRah3tD3izBRJAEZvSp8Qb9CQzhEzpj04N8gbckMlJHZqbWv8JT3NI1zjqXIzKB0jJtiY1x7h6Vj20-bdIXyYEAAlriGhhgr8jXxwMxQVMh1e7XNhUx3gnVg/s1600/metrotv.jpg" group-title="NASIONAL",METRO TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdDjNTNyM-5vDNTKSmYC9Zd5mUZMR2R7oas1_u08sIsbuTQN9kLjlZa2Ld2OMakX2bERRah3tD3izBRJAEZvSp8Qb9CQzhEzpj04N8gbckMlJHZqbWv8JT3NI1zjqXIzKB0jJtiY1x7h6Vj20-bdIXyYEAAlriGhhgr8jXxwMxQVMh1e7XNhUx3gnVg/s1600/metrotv.jpg" group-title="NASIONAL",METRO TV 1
 http://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
+
+#------------------------------------------------------------------#
+#                              METRO TV 2                          #
+#------------------------------------------------------------------#
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdDjNTNyM-5vDNTKSmYC9Zd5mUZMR2R7oas1_u08sIsbuTQN9kLjlZa2Ld2OMakX2bERRah3tD3izBRJAEZvSp8Qb9CQzhEzpj04N8gbckMlJHZqbWv8JT3NI1zjqXIzKB0jJtiY1x7h6Vj20-bdIXyYEAAlriGhhgr8jXxwMxQVMh1e7XNhUx3gnVg/s1600/metrotv.jpg" group-title="NASIONAL",METRO TV 2
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #------------------------------------------------------------------#
 #                              MAGNA TV                            #
