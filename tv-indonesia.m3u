@@ -11,34 +11,30 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFD1Gu8cYTNnT4JPq6GDJbULAGnR5Mn43baqkaSoOeQl4HDLVuP9O1jpOSmMGsn5yWBRH7WgHmAmjUUYourDFNteTcZcYTF4JFzzKWONv3lJNRux_YSA0C4rlJnN4F_xygWcPyKM5o7MPfjlztYqulLsVYmh1Y1h1xYQfdzVSCGBZzZBGoS-zlVslcizs6/s320/rcti.jpg" group-title="NASIONAL",RCTI
 
+
 #------------------------------------------------------------------#
 #                              SCTV                                #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVpHeVjtLrxnJp7-HB61CQ4JxRlTUzq-JuExeb7jib2U4DJn6_FAkaLyQrrbmeGejYb9SIMBCyUGKssiAB26NZFs899s81mtaHUP0-2_Gcf-hdQFNDVuZbK-xZ9ETDtTTt00SaQsiIAh8ffWM-IjskeMonAGRIZAS6N_pBy5cHjywSQq90kxFUoDhJaDQ/s320/sctv.jpg" group-title="NASIONAL",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+
 
 #------------------------------------------------------------------#
 #                              MNCTV                               #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgptM8hGueSXZ315PQdhemRWVebz0Dz73bw_GAzvxKtDvMXl53PmklmV7F8MDHR6b5Ls9-0075iDOL-T5xN9nFPs35kqU3OCprhnu9N5kxRMg4BkWGSW5_cu335jffPoL_a91KqXJocXNmd607JeoM6dtaOA-b4tTSs5u4UAeow5VIxhFexmrktm1Bmrlg/s320/mnctv.jpg" group-title="NASIONAL",MNCTV
 
+
 #------------------------------------------------------------------#
 #                               GTV                                #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKv3GxzCo8PiRV4WsGgqHgZ736k5LYCvzuCKOKYuZSZcQub1q52P5a91vwcaxAaRoIZYWk3dPbWz8TD6ZzgJfCgoSoMpnFrPi_toAcR5nUtJM1sz4OaOCztGwzBAdGpB0Qhh3XF69tB5NJJYvRv9tOGw8jsNNnDkLNefJOGBaXThc-Sz2cbeqmPpOOMqs/s320/gtv.jpg" group-title="NASIONAL",GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+
 
 #------------------------------------------------------------------#
 #                              iNEWS                               #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLpfTvc1_MOPO-fd3O9soT5PqiFi_KptFRglokyntWkZEfRBVUSCoiclghPN2ws1V_ZZVg-Tvz3q8aVKdZrqtHMLVhmxYfHDOUOYfkX5ewznzGiaTgtFD6Dk_QgiwDLBcn0E10gGkbv312_oJTd-DxbTiRuaIjAyMh1Dw83mrLcsmLRuK3ljMPx8lYemk/s320/inews.jpg" group-title="NASIONAL",iNews
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+
 
 #------------------------------------------------------------------#
 #                              TRANS7                              #
@@ -56,10 +52,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 #                             INDOSIAR                             #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMHGpYg2eXCavjPNYwQW8t4cpVD1z5A8PJhbO0e_1lEC4XLd0qA6FEoSw37uv3p3ZNkDmGtol627ResuLiKGpstLB5rM1LlbGomCtVyTLOGCJFaQdEVK-7ur80yNvL4W1Gn2s1MfAiUNJL_Al0rmS42LMwMy-1chW0Nhyphenhyphenw87mW95Xq76Gk9_BCqLbHR4I/s320/indosiar.jpg" group-title="NASIONAL",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://vidsemar.pages.dev/terraluna/205.mpd
+
 
 #------------------------------------------------------------------#
 #                              ANTV                                #
@@ -137,13 +130,13 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #                           CHANNEL JOWO                           #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwrYKvHIAJTOXIZvj49fiMDPilGYnoGvGCYaI6e7zmSzuRPyuMRLixBUzRiBXMPPKY-OHuazZ6t4OpbZWXlsd36JH9HCrYZ5JOr-sSYbqvHETWH7Z78D6ItOpiEWfO4Z0jlcIZWAdm-qZmmV0_mhxUdGhvuQRUB9myzeOt-7YhZzI50oByZZTmZFXmjrg/s320/channeljowo.jpg" group-title="DAERAH",CHANNEL JOWO
-https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8
 
 #------------------------------------------------------------------#
 #                           HANACARAKA TV                          #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW1FmzLYWJx00rSU98Nkcc5_QR2X5-wXhLtB9OJ83-Ai3i1Tbav_afzExQXJjrLOs1ffq-6BMhTF-wiRc8uD7hJOCMkvATRin4RsidkRWJ2NDTm_DF7KZ79Ekzq-X4Jxz3T439Ln9DwyBlOQYsDsZDvNaU99tkQk4g20hQLN5cA3FO84J_swHmOhB_5aM/s320/hanacarakatv.jpg" group-title="DAERAH",HANACARAKA TV
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+
 
 #------------------------------------------------------------------#
 #                               JITV                               #
