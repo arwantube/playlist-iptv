@@ -1,35 +1,33 @@
 #EXTM3U
-#EXTINF:-1,TVRI Nasional
+#EXTINF:-1,TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10000-mp4a_96000_eng=20000.m3u8
-#EXTINF:-1,TVRI World
+#EXTINF:-1,TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000=20002.m3u8
-#EXTINF:-1,Daai TV
+#EXTINF:-1,DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1,Metro TV (1)
+#EXTINF:-1,METRO TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w170077472_b1492000_sleng.m3u8
-#EXTINF:-1,Metro TV (2)
+#EXTINF:-1,METRO TV 2
 http://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
-#EXTINF:-1,Magna TV
+#EXTINF:-1,MAGNA TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 #EXTINF:-1,RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1,RRI Net
+#EXTINF:-1,RRI NET
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8?session=S7rkkm58rvc8sqgqcdNM3U
 #EXTINF:-1,MDTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1,Kompas TV
+#EXTINF:-1,KOMPAS TV
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8
-#EXTINF:-1,TV One
+#EXTINF:-1,TV ONE
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1,Garuda TV
+#EXTINF:-1,GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1,JITV
 http://103.255.15.222:1935/tv/jitv_720p/chunklist_w1552771138.m3u8
-#EXTINF:-1,Indosiana
+#EXTINF:-1,INDOSIANA
 https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1,Moji 1
+#EXTINF:-1,MOJI
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1,Moji 2
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
-#EXTINF:-1,Channel Jowo
+#EXTINF:-1,CHANNEL JOWO
 http://op-flashcon-digdayasd-1.dens.tv/h/h215/S2/mnf.m3u8
