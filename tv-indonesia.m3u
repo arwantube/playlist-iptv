@@ -155,5 +155,11 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #------------------------------------------------------------------#
 #                               TVRI WORLD                         #
 #------------------------------------------------------------------#
-#EXTINF:-1 group-title="NASIONAL",TVRI WORLD
+#EXTINF:-1, TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#------------------------------------------------------------------#
+#                             MOONBUG KIDS                         #
+#------------------------------------------------------------------#
+#EXTINF:-1, MOONBUG KIDS
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
