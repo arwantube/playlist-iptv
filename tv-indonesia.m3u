@@ -82,19 +82,21 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/02.m3u8
 #                          CNBC INDONESIA                          #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosK7RViC6l6WMo-xHi9TmMnYcM4TRM0QMtC0AmtralRaUHBNGJ09DANBEuXgq0lRWSqHRo5OI6GVK-OC1uIVZa4IqSF7B_JWBnZJl7XIGWQBebA3iYnAVWKP0Gbd5jVeMCrwlHAKoh4FjJS3oe3ISb2kiaTp1yR7x4STH7t2ooPGR5z_66Zob5OapLBs/s320/cnbc-indonesia.jpg" group-title="NASIONAL",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+
 
 #------------------------------------------------------------------#
 #                          CNN INDONESIA                           #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw7Ao4X-yG7_vq5O1ebfdD1A2j8cZW2ioPUNzUXLf0GGkXDrwqfzhY6XLNJqdJjzQeoEhxR1aAqTk0vLjEB44HEZqbdIbHks3mkTZIUgncorTdFYgQ2ov4pZ0DJOSyrzdKHkZ5tHR1tSOmVGFgGRdFz7QvmXE9ypFGb18yal8mJgkxYhAFpT2iam3aDmc/s320/cnn-indonesia.jpg" group-title="NASIONAL",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+
 
 #------------------------------------------------------------------#
 #                                MDTV                              #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfeuaisn0nEgv8ueWtIK5Z2tWtzZpwuiechsEjGZeNWGkhocczKfrulSPW81pWqb6fl3dJq7lk0yzWsCpLWDRVD59hO8m-CjHsRGrKshyphenhyphenZ9lX524DSU0TwkDTfNQR42Wyenht-yHKXEuAxevUQjufIp3rWHP76qDnJ5Pt5YEBSIAyC7v5iz_TbIy0j9E0/s320/mdtv.jpg" group-title="NASIONAL",MDTV
-
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #------------------------------------------------------------------#
 #                              METRO TV                            #
