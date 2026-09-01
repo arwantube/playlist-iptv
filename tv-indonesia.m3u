@@ -144,3 +144,8 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg97PzCs0AogDb4BH8vpCpmEjWxLjbrpoEPrANO8c4eQlyZa-Sk-tFqNfAEc6qbOuj1bayxVt8r3YRMngZx6rtWWFOC6l6ncGZtrSuczq1e23k5NJxryhCC43UphsKznUGt5AYI2aBxWAZpcaalh2WiNWrKs7Uy3Y5Ir10bE8jqTvZv4s1x2PugEkel7vE/s320/jitv.jpg" group-title="DAERAH",JITV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
+#------------------------------------------------------------------#
+#                               DAAI TV                            #
+#------------------------------------------------------------------#
+#EXTINF:-1 group-title="DAERAH",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
