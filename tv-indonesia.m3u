@@ -100,7 +100,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #                              METRO TV                            #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdDjNTNyM-5vDNTKSmYC9Zd5mUZMR2R7oas1_u08sIsbuTQN9kLjlZa2Ld2OMakX2bERRah3tD3izBRJAEZvSp8Qb9CQzhEzpj04N8gbckMlJHZqbWv8JT3NI1zjqXIzKB0jJtiY1x7h6Vj20-bdIXyYEAAlriGhhgr8jXxwMxQVMh1e7XNhUx3gnVg/s1600/metrotv.jpg" group-title="NASIONAL",METRO TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+http://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 
 #------------------------------------------------------------------#
 #                              MAGNA TV                            #
@@ -124,7 +124,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #                              RTV                                 #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIC5B93B7mVTz-wg6cGb2tNISTAQ7-wVQKIYdH9y7V8qrlVneEwi01B6R0PMG7_Czl-AmYiOXDKoA_Co_HhCdqeUpOn6Mu0fal0lH2gaJqgSrxaZB1tuPpbn3_gJfs7IST9oRfxk3x9YryHpzyxG7tsEV3IOBXglV6K6vWM4By3tHRoER4EmGwJulnvtk/s320/rtv.jpg" group-title="NASIONAL",RTV
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
 
 #------------------------------------------------------------------#
 #                           CHANNEL JOWO                           #
@@ -149,3 +149,9 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #------------------------------------------------------------------#
 #EXTINF:-1 group-title="DAERAH",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#------------------------------------------------------------------#
+#                               TVRI WORLD                         #
+#------------------------------------------------------------------#
+#EXTINF:-1 group-title="NASIONAL",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
