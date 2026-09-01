@@ -120,7 +120,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #                          NUSANTARA TV                            #
 #------------------------------------------------------------------#
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXu0mkuaw81gPPOSqaU4drEysksRZZzzjawSYO56lJ00-sYAt3aO685CqL2XFctWnoafuLif0f9RlwS5RMKQ6bB-4B6EdW2uzYySsH9_iz1jwLIYYSfAMRcT2WhwF3pjhZZu8eBpO_U48gA-7RFnqRO846ohNUtXwUH59kspEaOACMQEVhYePCZTuUz1w/s320/nusantaratv.jpg" group-title="NASIONAL",NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
 
 #------------------------------------------------------------------#
 #                              RTV                                 #
@@ -149,7 +149,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #------------------------------------------------------------------#
 #                               DAAI TV                            #
 #------------------------------------------------------------------#
-#EXTINF:-1 group-title="DAERAH",DAAI TV
+#EXTINF:-1 DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #------------------------------------------------------------------#
