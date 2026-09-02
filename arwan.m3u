@@ -3,20 +3,20 @@
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10000-mp4a_96000_eng=20000.m3u8
 #EXTINF:-1,TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000=20002.m3u8
-#EXTINF:-1,DAAI TV
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1,METRO TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w170077472_b1492000_sleng.m3u8
 #EXTINF:-1,METRO TV 2
 http://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
-#EXTINF:-1,MAGNA TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 #EXTINF:-1,RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1,RRI NET
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8?session=S7rkkm58rvc8sqgqcdNM3U
+#EXTINF:-1,MAGNA TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 #EXTINF:-1,MDTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1,DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1,KOMPAS TV
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8
 #EXTINF:-1,TV ONE
@@ -33,13 +33,17 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 http://op-flashcon-digdayasd-1.dens.tv/h/h215/S2/mnf.m3u8
 #EXTINF:-1,THE INDONESIA CHANNEL
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=hyUBAoGB4rrqh7G246BwcH
-#EXTINF:-1,STARA TV
+#EXTINF:-1,STARA TV YOGYAKARTA
 https://stream.matrixtv.id/hls/0/stream.m3u8
 #EXTINF:-1,JAWAPOSTV
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/chunklist_w359005756.m3u8
 #EXTINF:-1,MIC
 https://mic.siar.us/mic/live/mic_720p.m3u8
-#EXTINF:-1,TV9
-https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w940857514.m3u8
+#EXTINF:-1,SALIRA TV
+https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1,BABY SHARK
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1,TV9
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w940857514.m3u8
+#EXTINF:-1,NABAWI TV
+http://202.150.161.117:8000/play/NabawiTV
