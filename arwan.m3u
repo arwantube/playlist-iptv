@@ -3,8 +3,6 @@
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10000-mp4a_96000_eng=20000.m3u8
 #EXTINF:-1,METRO TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w170077472_b1492000_sleng.m3u8
-#EXTINF:-1,METRO TV 2
-http://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:-1,KOMPAS TV
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8
 #EXTINF:-1,TV ONE
@@ -49,3 +47,11 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1,TV9
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w1316825216.m3u8
+#EXTINF:-1,JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1,TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTINF:-1,UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1,EFARINA TV
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
