@@ -1,8 +1,11 @@
 #EXTM3U
-
+#EXTINF:-1,TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10000-mp4a_96000_eng=20000.m3u8
 #EXTINF:-1,KOMPAS TV
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8
 #EXTINF:-1,METRO TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:-1,TV ONE
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1,NTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
